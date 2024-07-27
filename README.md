@@ -6,7 +6,7 @@
 - 💪 I’m passionate about programming and building robust software.
 - 🌱 I’m currently focusing on advanced Python, Data Structures and Algorithms in C, and problem-solving in C.
 - 🖥️ I primarily use Windows 11 with WSL and Debian Linux.
-- 👨‍💻 You can find all my projects on [GitHub](https://github.com/L0KESHprograms).
+- 👨‍💻 You can find all my projects on [GitHub](https://github.com/git-lokesh).
 - ✉️ Feel free to reach out to me via email at lokeshofficial2212@gmail.com.
 
 
